@@ -1,0 +1,11 @@
+.videoPage{
+    
+    background-color: #181818;
+    display: flex;
+    flex-wrap: wrap;
+    width: 85vw;
+
+}
+.recom{
+    background-color: #181818;
+}
