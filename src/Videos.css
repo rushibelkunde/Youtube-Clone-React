@@ -1,4 +1,7 @@
 .videoPage{
+    top: 12%;
+    position: absolute;
+    left: 17%;
     
     background-color: #181818;
     display: flex;

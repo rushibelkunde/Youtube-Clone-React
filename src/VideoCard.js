@@ -3,7 +3,7 @@ import './VideoCard.css'
 function VideoCard({thumb, videoTitle, channelLogo, channelName, views, timeStamp}) {
   return (
     <div className='videoCard'>
-        <img src={thumb} alt="" width='300px' height='180px'/>
+        <img src={thumb} alt="" width='270px' height='180px'/>
         <div className='upper'>
             <img src={channelLogo} alt="" width='40px' height='40px' className='channelLogo' />
             <div className='videoTitle'>{videoTitle}

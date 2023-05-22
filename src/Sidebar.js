@@ -10,14 +10,13 @@ import OndemandVideoIcon from '@mui/icons-material/OndemandVideo';
 import WatchLaterIcon from '@mui/icons-material/WatchLater';
 import ThumbUpAltIcon from '@mui/icons-material/ThumbUpAlt';
 import ExpandMoreOutlinedIcon from '@mui/icons-material/ExpandMoreOutlined';
-import { Link } from 'react-router-dom';
 
 function Sidebar() {
   return (
     <div className='sidebar'>
-        <Link to='/'>
+        
           <SidebarRow selected Icon={HomeIcon} title ="Home" />
-        </Link>
+        
         
         <SidebarRow Icon={WhatshotIcon} title ="Trending"/>
         <SidebarRow Icon={SubscriptionsIcon} title ="Subscription"/>
