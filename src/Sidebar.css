@@ -1,5 +1,5 @@
 .sidebar{
-
+    
     position: fixed;
     height: 100vh;
     top: 12%;
@@ -7,9 +7,11 @@
 
     
     background-color: #212121;
-    width: 15vw;
+    width: 15%;
     
 }
 .hr{
     color: rgb(88, 85, 85);
 }
+
+

@@ -1,12 +1,12 @@
 .videoPage{
     top: 12%;
     position: absolute;
-    left: 17%;
+    left: 15%;
     
     background-color: #181818;
     display: flex;
     flex-wrap: wrap;
-    width: 85vw;
+    width: 85%;
 
 }
 .recom{

@@ -4,8 +4,6 @@ import Header from './Header';
 import Sidebar from './Sidebar';
 import Videos from './Videos';
 
-
-
 function App() {
   return (
     <div className="App">
